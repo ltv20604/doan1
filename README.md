@@ -10,4 +10,3 @@ Designed schematic and PCB in KiCad.
 
 Hardware: ESP32, BH1750, MAX9814, MAX7219, Push button
 Software: Arduino IDE (C/C++)
-Author: Lê Trung Vĩnh
